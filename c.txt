@@ -7,3 +7,7 @@ issue-15自動クローズテスト
 
 コミットメッセージにclose #15
 
+#15 Hello world add
+再度
+
+
