@@ -18,5 +18,5 @@
   - laksjdflkajsdlfkjaldskjfldsaf
       - laskjdflaksjdlfkjdsa
 
-
 Bさん編集
+Aさんが先に修正してマスターにマージをする
