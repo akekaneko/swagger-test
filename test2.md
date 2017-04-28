@@ -18,3 +18,4 @@
   - laksjdflkajsdlfkjaldskjfldsaf
       - laskjdflaksjdlfkjdsa
 
+Aさんが先に修正してマスターにマージをする
