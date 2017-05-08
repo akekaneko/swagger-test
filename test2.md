@@ -4,6 +4,15 @@
 
 ### aaaaaaa
 
+1. 1 2space
+  1. 1-1
+  2. 1-2
+  3. 1-3
+
+1. 2 2space
+  1. 2-1
+  2. 2-2
+
 
 1. 数字リストの中の引用文
 
@@ -39,8 +48,16 @@
   - どうなる？
 
 - aaaa2
-  - bbbbbb2
-    - cccccc2
+    - bbbbbb2
+
+    bの中の文章。４スペース開ける
+
+    laksjdfkladsjfkldsajfl
+
+        - cccccc2
+        bの中の文章。４スペース開ける
+
+        laksjdfkladsjfkldsajfl
 
 - aaaa4
     - bbbbbb4
