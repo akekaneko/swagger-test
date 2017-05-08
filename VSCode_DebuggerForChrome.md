@@ -11,7 +11,7 @@ version 1.0.1
   https://code.visualstudio.com/
 
   ※今回はversion1.11.1
-  
+
 1. VSCodeを起動する
 
 1. F1キーを押し、コマンドラインに ext install と入力し、表示される選択肢の中の”拡張機能のインストール"を選択
