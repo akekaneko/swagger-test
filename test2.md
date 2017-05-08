@@ -26,7 +26,7 @@
         ```
         var code = 1;
         ```
-        
+
     1. リスト内サブアイテムは４スペースが必要
 
 - 箇条書きリストなら
@@ -38,9 +38,13 @@
 
   - どうなる？
 
-- aaaa
-  - bbbbbb
-    - cccccc
+- aaaa2
+  - bbbbbb2
+    - cccccc2
+
+- aaaa4
+    - bbbbbb4
+        - cccccc4
 
 - alkasjfkjadkjfldsajfa
   - laksjdflkajsdlfkjaldskjfldsaf
