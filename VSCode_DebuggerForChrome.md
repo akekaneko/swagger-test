@@ -3,11 +3,12 @@ VSCode の機能拡張 Debugger for Chromeで、webページをデバッグ、�
 
 version 1.0.1
 
+
 ## **インストール・設定**
 
 1. VSCodeのインストール
-  以下のサイトよりダウンロードしてインストール
 
+  以下のサイトよりダウンロードしてインストール
   https://code.visualstudio.com/
 
   ※今回はversion1.11.1
