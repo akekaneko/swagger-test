@@ -1,0 +1,25 @@
+body {
+  color: #333;
+  font-family: Verdana, Roboto, "Droid Sans", Meiryo;
+  background-color: #fafafa;
+  background: #fafafa;
+  font-size: 14px;
+}
+
+a:link {
+  color: #333;
+}
+
+a:visited {
+  color: #333;
+}
+
+a:hover,
+a:focus {
+  color: #19b8c8;
+}
+
+a:active {
+  color: #2482cc;
+}
+
