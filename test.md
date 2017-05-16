@@ -148,12 +148,38 @@ ___
 ~~テスト~~
 
 
-## その他
+## タスク一覧
 
-コメントアウトはHTMLと同様の方法！
+- [ ] 朝、目覚める
+- [x] 歯磨きをする
+- [x] 電車に乗る
+
+## 絵文字
+
+:smile:
+:+1:
+:anger:
+:bomb:
+:musical_keyboard:
+:blue_car:
+:congratulations:
+
+### 絵文字リスト
+- https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+## コメントアウト
+
+HTMLと同様の方法で。
+
 ```
 <!-- this is a comment. -->
 ```
+
+
+## 参考
+- https://guides.github.com/features/mastering-markdown/
+- https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
 
 
 
